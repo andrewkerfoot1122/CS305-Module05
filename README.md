@@ -1,3 +1,3 @@
 # Welcome!
-## This is my really cool repo where I am buidling GPT-5
+This is my really cool repo where I am buidling GPT-5
 
